@@ -34,7 +34,7 @@ public class Operadores {
 		
 		System.out.println(resultado); 
 		
-		/* .quals quando se trata de texto*/ 
+		/* .equals quando se trata de texto*/ 
 		}
 
 }
